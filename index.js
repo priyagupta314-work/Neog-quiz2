@@ -4,14 +4,14 @@ var highScorer={
   scoreHigh: 0
 }
 var quiz = [{
-  question: "Where does Priya work",
+  question: "Where has Priya worked",
   options: ["IBM", "Microsoft", "Google"],
   answer: "IBM"
 },
 {
-  question: "What does Priya drink?",
-  options: ["Milk", "Team", "Coffee"],
-  answer: "Milk"
+  question: "What does Priya live?",
+  options: ["Bangalore", "Hyderabad", "Ghaziabad"],
+  answer: "Ghaziabad"
 },
 {
   question: "Is Priya vegetarian?",
