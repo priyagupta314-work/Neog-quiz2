@@ -9,7 +9,7 @@ var quiz = [{
   answer: "IBM"
 },
 {
-  question: "What does Priya live?",
+  question: "Where does Priya live?",
   options: ["Bangalore", "Hyderabad", "Ghaziabad"],
   answer: "Ghaziabad"
 },
